@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="shortcut icon" href="/favicon.ico">
-  <link type="application/opensearchdescon+xml" rel="search" href="/OpensearchDescription.xml"/>
+  <link type="application/opensearchdesml" rel="search" href="/OpensearchDescription.xml"/>
 
   <title>Candy | CoinGecko</title>
   <meta name="description" content="Browse and redeem exclusive discounts, voucher credits, limited edition NFTs, token airdrops, &amp; more with CoinGecko Candy" />
